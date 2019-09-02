@@ -2,4 +2,70 @@
 <Bucket
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppStoreJSON/Service/ApiService.swift"
+            timestampString = "589137737.9411581"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "fetchApps(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppStoreJSON/Controller/AppsSearchViewController.swift"
+            timestampString = "589137737.941712"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "fetchITunesApps()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppStoreJSON.AppsSearchViewController.(fetchITunesApps in _B6D42AF35442B3EEE2354B7E39E2E4E3)() -&gt; ()"
+                  moduleName = "AppStoreJSON"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jasonyu/Documents/IOS/AppStoreJSON/AppStoreJSON/Controller/AppsSearchViewController.swift"
+                  timestampString = "589126022.718074"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in AppStoreJSON.AppsSearchViewController.(fetchITunesApps in _B6D42AF35442B3EEE2354B7E39E2E4E3)() -&gt; ()"
+                  moduleName = "AppStoreJSON"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jasonyu/Documents/IOS/AppStoreJSON/AppStoreJSON/Controller/AppsSearchViewController.swift"
+                  timestampString = "589126022.7227089"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "15">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
